@@ -1,3 +1,3 @@
 # SpaceX-Falcon-9-first-stage-landing-prediction
 
-SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+SpaceX offers Falcon 9 rocket launches at a cost of $62 million, which is significantly lower than other providers whose costs exceed $165 million. This is primarily due to SpaceX's ability to reuse the first stage. Therefore, by predicting the successful landing of the first stage, one can estimate the cost of a launch. This knowledge could be beneficial for a company seeking to compete with SpaceX in the bidding process for a rocket launch contract.
